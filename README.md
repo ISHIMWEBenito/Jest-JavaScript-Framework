@@ -1,1 +1,1 @@
-# Jest JavaScript Framework
+# Jest JavaScript Testing Framework
